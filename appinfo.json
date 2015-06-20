@@ -1,0 +1,49 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Wip Interactive/GJL",
+    "longName": "TextWatch Dutch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/TextWatchDutch48.png",
+                "name": "TextWatchDutch48",
+                "type": "png"
+            },
+            {
+                "file": "images/TextWatchDutch144.png",
+                "name": "TextWatchDutch144",
+                "type": "png"
+            },
+            {
+                "file": "images/TextWatchDutchB48.png",
+                "menuIcon": true,
+                "name": "TextWatchDutchB48",
+                "type": "png"
+            },
+            {
+                "file": "fonts/gotham_bold_36.ttf",
+                "name": "FONT_GOTHAM_BOLD_36",
+                "type": "font"
+            },
+            {
+                "file": "fonts/gotham_light_31.ttf",
+                "name": "FONT_GOTHAM_LIGHT_31",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "TextWatch Dutch",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "0c6f5d85-b4d0-44c5-93c5-c9c5c4793231",
+    "versionLabel": "1",
+    "watchapp": {
+        "watchface": true
+    }
+}
